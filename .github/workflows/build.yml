@@ -3,12 +3,10 @@ name: Build
 on:
   pull_request:
     branches:    
-      - sample
-      - master
+      - main
   push:
     branches:
-      - sample
-      - master
+      - main
 
 jobs:
   test:
