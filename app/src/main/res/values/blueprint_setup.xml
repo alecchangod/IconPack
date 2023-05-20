@@ -26,7 +26,7 @@
         Do you want the app to read the icons from res/xml/drawable.xml ? (true)
         Or do you prefer the icons to be loaded from res/values/icon_pack.xml ? (false)
     -->
-    <bool name="xml_drawable_enabled">false</bool>
+    <bool name="xml_drawable_enabled">true</bool>
 
     <!--
         Set to true if your icon pack includes adaptive icons. false otherwise
@@ -34,11 +34,11 @@
     <bool name="includes_adaptive_icons">false</bool>
 
     <!-- Icon Pack designer/owner e-mail -->
-    <string name="email">someone@email.com</string>
+    <string name="email">alecchangod@gmail.com</string>
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
-    <string name="email_subject">Blueprint</string>
-    <string name="request_title">Blueprint Icon Request</string>
+    <string name="email_subject">ACG-VTB IconPack</string>
+    <string name="request_title">ACG-VTB IconPack Icon Request</string>
 
     <!--
     1. Set the max amount of apps to request.

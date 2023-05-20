@@ -1,7 +1,7 @@
 @file:Suppress("unused")
 
 object MyApp {
-    const val appId = "dev.jahir.blueprint.app"
-    const val version = 234
-    const val versionName = "2.3.4"
+    const val appId = "acg.vtb.iconpack"
+    const val version = 1
+    const val versionName = "1.0"
 }
