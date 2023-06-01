@@ -1,9 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <appmap>
 
-    <!-- Contacts App -->
+    <!-- Settings App -->
     <item
-        class="com.android.contacts.DialtactsContactsEntryActivity"
-        name="people" />
+        class="com.android.settings.Settings"
+        name="settings" />
+
+    <!-- Chrome -->
+    <item
+        class="com.google.android.apps.chrome.Main"
+        name="chrome" />
+
+    <!-- Gmail -->
+    <item
+        class="com.google.android.gm.ConversationListActivityGmail"
+        name="gmail" />
+
+    <!-- Google Classroom -->
+    <item
+        class="com.google.android.apps.classroom.application.launcher.LauncherActivity"
+        name="classroom" />
+
+    <!-- YouTube -->
+    <item
+        class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        name="youtube" />
+
+    <!-- WhatsApp -->
+    <item
+        class="com.whatsapp.0"
+        name="whatsapp" />
+
+    <!-- Battle Cat TW -->
+    <item
+        class="jp.co.ponos.battlecats.MyActivity"
+        name="bc_tw" />
+
+    <!-- Plus Messenger -->
+    <item
+        class="org.telegram.messenger.DefaultIcon"
+        name="plus" />
+
+    <!-- Google Calculator -->
+    <item
+        class="com.android.calculator2.Calculator"
+        name="g_cal" />
+
+    <!-- Discord -->
+    <item
+        class="com.discord.app.AppActivity$Main"
+        name="discord" />
+
+    <!-- Girl X Battle 2 -->
+    <item
+        class="com.carolgames.moemoegirls.MainActivity"
+        name="gxb2" />
+
+    <!-- Google Drive -->
+    <item
+        class="com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="g_drive" />
+
+    <!-- MIX -->
+    <item
+        class="com.mixplorer.activities.BrowseActivity"
+        name="mix" />
+
+    <!-- MIX Silver -->
+    <item
+        class="com.mixplorer.activities.BrowseActivity"
+        name="mix_s" />
+
+    <!-- FireFox -->
+    <item
+        class="org.mozilla.firefox.App"
+        name="firefox" />
+
+    <!-- Instagram -->
+    <item
+        class="com.instagram.android.activity.MainTabActivity"
+        name="ig" />
+
+    <!-- Google Play Store -->
+    <item
+        class="com.android.vending.AssetBrowserActivity"
+        name="g_play" />
+
+    <!-- Google Translate -->
+    <item
+        class="com.google.android.apps.translate.TranslateActivity"
+        name="g_tl" />
+
+    <!-- Battle Cat JP -->
+    <item
+        class="jp.co.ponos.battlecats.MyActivity"
+        name="bc_jp" />
+
+    <!-- YouTube Music -->
+    <item
+        class="com.google.android.apps.youtube.music.activities.MusicActivity"
+        name="yt_music" />
+
+    <!-- 1.1.1.1 -->
+    <item
+        class="com.cloudflare.app.presentation.main.SplashActivity"
+        name="oooo" />
+
+    <!-- IDMP -->
+    <item
+        class="idm.internet.download.manager.MainActivity"
+        name="idmp" />
+
+    <!-- Dolby Dax -->
+    <item
+        class="com.dolby.daxappui.MainActivity"
+        name="dolby_dax" />
+
+    <!-- Facebook Messenger -->
+    <item
+        class="com.facebook.orca.auth.StartScreenActivity"
+        name="f_msg" />
+
+    <!-- Google Recorder -->
+    <item
+        class="com.google.android.apps.recorder.ui.recordings.MainActivity"
+        name="g_rec" />
+
+    <!-- Battle Cat EN -->
+    <item
+        class="jp.co.ponos.battlecats.MyActivity"
+        name="bc_en" />
+
+    <!-- Battle Cat KR -->
+    <item
+        class="jp.co.ponos.battlecats.MyActivity"
+        name="bc_kr" />
+
+    <!-- Line -->
+    <item
+        class="jp.naver.line.android.activity.SplashActivity"
+        name="line" />
+
+    <!-- MEGA -->
+    <item
+        class="mega.privacy.android.app.main.ManagerActivity"
+        name="mega" />
+
+    <!-- Magisk -->
+    <item
+        class="com.topjohnwu.magisk.ui.MainActivity"
+        name="magisk" />
+
+    <!-- Facebook -->
+    <item
+        class="com.facebook.katana.LoginActivity"
+        name="facebook" />
+
+    <!-- GitHub -->
+    <item
+        class="com.github.android.activities.MainActivity"
+        name="github" />
+
+    <!-- Google Search -->
+    <item
+        class="com.google.android.googlequicksearchbox.SearchActivity"
+        name="g_search" />
+
+    <!-- OneDrive -->
+    <item
+        class="com.microsoft.skydrive.MainActivity"
+        name="onedrive" />
+
+    <!-- Google Photo -->
+    <item
+        class="com.google.android.apps.photos.home.HomeActivity"
+        name="g_photo" />
+
+    <!-- Google Play Games -->
+    <item
+        class="com.google.android.gms.games.ui.destination.main.MainActivity"
+        name="g_games" />
+
+    <!-- RAR -->
+    <item
+        class="com.rarlab.rar.MainActivity"
+        name="rar" />
+
+    <!-- Notify for Mi Band -->
+    <item
+        class="com.mc.miband1.ui.MainActivity"
+        name="miband" />
+
+    <!-- Matlog -->
+    <item
+        class="com.pluscubed.logcat.ui.LogcatActivity"
+        name="matlog" />
+
+    <!-- SurfShark -->
+    <item
+        class="com.surfshark.vpnclient.android.StartActivity"
+        name="surfshark" />
+
+    <!-- Twitch -->
+    <item
+        class="tv.twitch.android.app.core.LandingActivity"
+        name="twitch" />
+
+    <!-- Twitter -->
+    <item
+        class="com.twitter.android.StartActivity"
+        name="twitter" />
+
+    <!-- GCam MGC -->
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="g_cam_mgc" />
+
+    <!-- Microsoft Math -->
+    <item
+        class="com.microsoft.bing.reactnative.lib.MainActivity"
+        name="m_math" />
+
+    <!-- Swift Backup -->
+    <item
+        class="org.swiftapps.swiftbackup.intro.IntroActivity"
+        name="s_backup" />
+
+    <!-- Google Calendar -->
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="g_calen" />
+
+    <!-- DriveDroid(Paid) -->
+    <item
+        class="com.softwarebakery.drivedroid.MainActivity"
+        name="d_droid_p" />
+
+    <!-- DropBox -->
+    <item
+        class="com.dropbox.android.activity.DropboxBrowser"
+        name="dropbox" />
+
+    <!-- FolderSync -->
+    <item
+        class="dk.tacit.android.foldersync.activity.MainActivity"
+        name="f_sync" />
+
+    <!-- Minecraft -->
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="mcpe" />
+
+    <!-- Polaris Office -->
+    <item
+        class="com.infraware.service.ActLauncher"
+        name="p_office" />
+
+    <!-- PowerDirect -->
+    <item
+        class="com.cyberlink.powerdirector.splash.SplashActivity"
+        name="c_pd" />
+
+    <!-- Reddit -->
+    <item
+        class="launcher.default"
+        name="reddit" />
+
+    <!-- QKSMS -->
+    <item
+        class="com.moez.QKSMS.feature.main.MainActivity"
+        name="qksms" />
+
+    <!-- Puffin -->
+    <item
+        class="com.cloudmosa.app.LemonActivity"
+        name="puffin" />
+
+    <!-- XDA Labs -->
+    <item
+        class="host.exp.exponent.MainActivity"
+        name="xda" />
+
+    <!-- Auto Clicker -->
+    <item
+        class="com.rise.automatic.autoclicker.clicker.ui.activities.splash.SplashActivity"
+        name="a_clicker" />
+
+    <!-- Octopus -->
+    <item
+        class="com.octopuscards.nfc_reader.ui.main.activities.MainActivityV5"
+        name="octopus" />
+
+    <!-- PayPal -->
+    <item
+        class="com.paypal.android.p2pmobile.startup.activities.StartupActivity"
+        name="paypal" />
+
+    <!-- AOSP Dialer -->
+    <item
+        class="com.android.dialer.main.impl.MainActivity"
+        name="aosp_dialer" />
+
+    <!-- Google Lens -->
+    <item
+        class="com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
+        name="g_lens" />
+
+    <!-- Nekogram -->
+    <item
+        class="org.telegram.messenger.DefaultIcon"
+        name="nekogram" />
+
+    <!-- Office 365 -->
+    <item
+        class="com.microsoft.office.officesuite.OfficeSuiteActivity"
+        name="o_365" />
+
+    <!-- Eclass Students -->
+    <item
+        class="com.broadlearning.eclassstudent.login.LoadingActivity"
+        name="e_students" />
+
+    <!-- Termux -->
+    <item
+        class="com.termux.app.TermuxActivity"
+        name="termux" />
+
+    <!-- Acode -->
+    <item
+        class="com.foxdebug.acode.MainActivity"
+        name="acode" />
+
+    <!-- Storage Isolation -->
+    <item
+        class="moe.shizuku.redirectstorage.MainActivity"
+        name="s_iso" />
+
+    <!-- ESET -->
+    <item
+        class="com.eset.ems.gui.MainActivityAlias"
+        name="eset" />
+
+    <!-- AFwall donate -->
+    <item
+        class="dev.ukanth.ufirewall.donatekey.MainActivity"
+        name="afwall_d" />
+
+    <!-- AFwall -->
+    <item
+        class="dev.ukanth.ufirewall.MainActivity"
+        name="afwall" />
+
+    <!-- Norton360 -->
+    <item
+        class="com.norton.n360.SplashActivity"
+        name="n360" />
+
 
 </appmap>

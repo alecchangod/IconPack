@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "acg.vtb.iconpack",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 28,
+      "versionName": "v12#28",
+      "outputFile": "acg.vtb.iconpack-v12#28-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

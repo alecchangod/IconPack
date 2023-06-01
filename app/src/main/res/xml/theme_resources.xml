@@ -8,9 +8,720 @@
     <ThemePreviewMenu image="preview1" />
     <DockMenuAppIcon selector="drawer" />
 
-    <!-- Contacts App -->
+    <!-- Settings App -->
     <AppIcon
-        name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
-        image="people" />
+        name="com.android.settings/com.android.settings.Settings"
+        image="settings" />
+
+    <!-- Chrome -->
+    <AppIcon
+        name="com.android.chrome/com.google.android.apps.chrome.Main"
+        image="chrome" />
+
+    <!-- Gmail -->
+    <AppIcon
+        name="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"
+        image="gmail" />
+
+    <!-- Google Classroom -->
+    <AppIcon
+        name="com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity"
+        image="classroom" />
+
+    <!-- YouTube -->
+    <AppIcon
+        name="com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        image="youtube" />
+
+    <!-- WhatsApp -->
+    <AppIcon
+        name="com.whatsapp/com.whatsapp.0"
+        image="whatsapp" />
+
+    <!-- Battle Cat TW -->
+    <AppIcon
+        name="jp.co.ponos.battlecatstw/jp.co.ponos.battlecats.MyActivity"
+        image="bc_tw" />
+
+    <!-- Plus Messenger -->
+    <AppIcon
+        name="org.telegram.plus/org.telegram.messenger.DefaultIcon"
+        image="plus" />
+
+    <!-- Google Calculator -->
+    <AppIcon
+        name="com.google.android.calculator/com.android.calculator2.Calculator"
+        image="g_cal" />
+
+    <!-- Discord -->
+    <AppIcon
+        name="com.discord/com.discord.app.AppActivity$Main"
+        image="discord" />
+
+    <!-- Girl X Battle 2 -->
+    <AppIcon
+        name="com.carolgames.moemoegirls/com.carolgames.moemoegirls.MainActivity"
+        image="gxb2" />
+
+    <!-- Google Drive -->
+    <AppIcon
+        name="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+        image="g_drive" />
+
+    <!-- MIX -->
+    <AppIcon
+        name="com.mixplorer/com.mixplorer.activities.BrowseActivity"
+        image="mix" />
+
+    <!-- MIX Silver -->
+    <AppIcon
+        name="com.mixplorer.silver/com.mixplorer.activities.BrowseActivity"
+        image="mix_s" />
+
+    <!-- FireFox -->
+    <AppIcon
+        name="org.mozilla.firefox/org.mozilla.firefox.App"
+        image="firefox" />
+
+    <!-- Instagram -->
+    <AppIcon
+        name="com.instagram.android/com.instagram.android.activity.MainTabActivity"
+        image="ig" />
+
+    <!-- Google Play Store -->
+    <AppIcon
+        name="com.android.vending/com.android.vending.AssetBrowserActivity"
+        image="g_play" />
+
+    <!-- Google Translate -->
+    <AppIcon
+        name="com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"
+        image="g_tl" />
+
+    <!-- Battle Cat JP -->
+    <AppIcon
+        name="jp.co.ponos.battlecats/jp.co.ponos.battlecats.MyActivity"
+        image="bc_jp" />
+
+    <!-- YouTube Music -->
+    <AppIcon
+        name="com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity"
+        image="yt_music" />
+
+    <!-- 1.1.1.1 -->
+    <AppIcon
+        name="com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.SplashActivity"
+        image="oooo" />
+
+    <!-- IDMP -->
+    <AppIcon
+        name="idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity"
+        image="idmp" />
+
+    <!-- Dolby Dax -->
+    <AppIcon
+        name="com.dolby.daxappui/com.dolby.daxappui.MainActivity"
+        image="dolby_dax" />
+
+    <!-- Facebook Messenger -->
+    <AppIcon
+        name="com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
+        image="f_msg" />
+
+    <!-- Google Recorder -->
+    <AppIcon
+        name="com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity"
+        image="g_rec" />
+
+    <!-- Battle Cat EN -->
+    <AppIcon
+        name="jp.co.ponos.battlecatsen/jp.co.ponos.battlecats.MyActivity"
+        image="bc_en" />
+
+    <!-- Battle Cat KR -->
+    <AppIcon
+        name="jp.co.ponos.battlecatskr/jp.co.ponos.battlecats.MyActivity"
+        image="bc_kr" />
+
+    <!-- Line -->
+    <AppIcon
+        name="jp.naver.line.android/jp.naver.line.android.activity.SplashActivity"
+        image="line" />
+
+    <!-- MEGA -->
+    <AppIcon
+        name="mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity"
+        image="mega" />
+
+    <!-- Magisk -->
+    <AppIcon
+        name="com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity"
+        image="magisk" />
+
+    <!-- Facebook -->
+    <AppIcon
+        name="com.facebook.katana/com.facebook.katana.LoginActivity"
+        image="facebook" />
+
+    <!-- GitHub -->
+    <AppIcon
+        name="com.github.android/com.github.android.activities.MainActivity"
+        image="github" />
+
+    <!-- Google Search -->
+    <AppIcon
+        name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"
+        image="g_search" />
+
+    <!-- OneDrive -->
+    <AppIcon
+        name="com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
+        image="onedrive" />
+
+    <!-- Google Photo -->
+    <AppIcon
+        name="com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity"
+        image="g_photo" />
+
+    <!-- Google Play Games -->
+    <AppIcon
+        name="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity"
+        image="g_games" />
+
+    <!-- RAR -->
+    <AppIcon
+        name="com.rarlab.rar/com.rarlab.rar.MainActivity"
+        image="rar" />
+
+    <!-- Notify for Mi Band -->
+    <AppIcon
+        name="com.mc.miband1/com.mc.miband1.ui.MainActivity"
+        image="miband" />
+
+    <!-- Matlog -->
+    <AppIcon
+        name="com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity"
+        image="matlog" />
+
+    <!-- SurfShark -->
+    <AppIcon
+        name="com.surfshark.vpnclient.android/com.surfshark.vpnclient.android.StartActivity"
+        image="surfshark" />
+
+    <!-- Twitch -->
+    <AppIcon
+        name="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity"
+        image="twitch" />
+
+    <!-- Twitter -->
+    <AppIcon
+        name="com.twitter.android/com.twitter.android.StartActivity"
+        image="twitter" />
+
+    <!-- GCam MGC -->
+    <AppIcon
+        name="com.android.MGC/com.android.camera.CameraLauncher"
+        image="g_cam_mgc" />
+
+    <!-- Microsoft Math -->
+    <AppIcon
+        name="com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity"
+        image="m_math" />
+
+    <!-- Swift Backup -->
+    <AppIcon
+        name="org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity"
+        image="s_backup" />
+
+    <!-- Google Calendar -->
+    <AppIcon
+        name="com.google.android.calendar/com.android.calendar.AllInOneActivity"
+        image="g_calen" />
+
+    <!-- DriveDroid(Paid) -->
+    <AppIcon
+        name="com.softwarebakery.drivedroid.paid/com.softwarebakery.drivedroid.MainActivity"
+        image="d_droid_p" />
+
+    <!-- DropBox -->
+    <AppIcon
+        name="com.dropbox.android/com.dropbox.android.activity.DropboxBrowser"
+        image="dropbox" />
+
+    <!-- FolderSync -->
+    <AppIcon
+        name="dk.tacit.android.foldersync.full/dk.tacit.android.foldersync.activity.MainActivity"
+        image="f_sync" />
+
+    <!-- Minecraft -->
+    <AppIcon
+        name="com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity"
+        image="mcpe" />
+
+    <!-- Polaris Office -->
+    <AppIcon
+        name="com.infraware.office.link/com.infraware.service.ActLauncher"
+        image="p_office" />
+
+    <!-- PowerDirect -->
+    <AppIcon
+        name="com.cyberlink.powerdirector.DRA140225_01/com.cyberlink.powerdirector.splash.SplashActivity"
+        image="c_pd" />
+
+    <!-- Reddit -->
+    <AppIcon
+        name="com.reddit.frontpage/launcher.default"
+        image="reddit" />
+
+    <!-- QKSMS -->
+    <AppIcon
+        name="com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity"
+        image="qksms" />
+
+    <!-- Puffin -->
+    <AppIcon
+        name="com.cloudmosa.puffin/com.cloudmosa.app.LemonActivity"
+        image="puffin" />
+
+    <!-- XDA Labs -->
+    <AppIcon
+        name="com.xda.labs.play/host.exp.exponent.MainActivity"
+        image="xda" />
+
+    <!-- Auto Clicker -->
+    <AppIcon
+        name="com.rise.automatic.autoclicker.clicker/com.rise.automatic.autoclicker.clicker.ui.activities.splash.SplashActivity"
+        image="a_clicker" />
+
+    <!-- Octopus -->
+    <AppIcon
+        name="com.octopuscards.nfc_reader/com.octopuscards.nfc_reader.ui.main.activities.MainActivityV5"
+        image="octopus" />
+
+    <!-- PayPal -->
+    <AppIcon
+        name="com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity"
+        image="paypal" />
+
+    <!-- AOSP Dialer -->
+    <AppIcon
+        name="com.android.dialer/com.android.dialer.main.impl.MainActivity"
+        image="aosp_dialer" />
+
+    <!-- Google Lens -->
+    <AppIcon
+        name="com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
+        image="g_lens" />
+
+    <!-- Nekogram -->
+    <AppIcon
+        name="tw.nekomimi.nekogram/org.telegram.messenger.DefaultIcon"
+        image="nekogram" />
+
+    <!-- Office 365 -->
+    <AppIcon
+        name="com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity"
+        image="o_365" />
+
+    <!-- Eclass Students -->
+    <AppIcon
+        name="com.broadlearning.eclassstudent/com.broadlearning.eclassstudent.login.LoadingActivity"
+        image="e_students" />
+
+    <!-- Termux -->
+    <AppIcon
+        name="com.termux/com.termux.app.TermuxActivity"
+        image="termux" />
+
+    <!-- Acode -->
+    <AppIcon
+        name="com.foxdebug.acode/com.foxdebug.acode.MainActivity"
+        image="acode" />
+
+    <!-- Storage Isolation -->
+    <AppIcon
+        name="moe.shizuku.redirectstorage/moe.shizuku.redirectstorage.MainActivity"
+        image="s_iso" />
+
+    <!-- ESET -->
+    <AppIcon
+        name="com.eset.ems2.gp/com.eset.ems.gui.MainActivityAlias"
+        image="eset" />
+
+    <!-- AFwall donate -->
+    <AppIcon
+        name="dev.ukanth.ufirewall.donatekey/dev.ukanth.ufirewall.donatekey.MainActivity"
+        image="afwall_d" />
+
+    <!-- AFwall -->
+    <AppIcon
+        name="dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity"
+        image="afwall" />
+
+    <!-- Norton360 -->
+    <AppIcon
+        name="com.symantec.mobilesecurity/com.norton.n360.SplashActivity"
+        image="n360" />
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
+<!--    &lt;!&ndash; App &ndash;&gt;-->
+<!--    <AppIcon-->
+<!--        name="app_activities"-->
+<!--        image="gmail" />-->
+
 
 </Theme>

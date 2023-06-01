@@ -3,12 +3,12 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-<!--        <item>adaptive_one</item>-->
-<!--        <item>adaptive_two</item>-->
-<!--        <item>adaptive_three</item>-->
-<!--        <item>amber_circle</item>-->
-<!--        <item>amber_rectangle</item>-->
-<!--        <item>amber_square</item>-->
+        <item>plus</item>
+        <item>g_play</item>
+        <item>g_tl</item>
+        <item>idmp</item>
+        <item>qksms</item>
+        <item>g_lens</item>
 <!--        <item>blue_circle</item>-->
 <!--        <item>blue_rectangle</item>-->
 <!--        <item>blue_square</item>-->
@@ -38,41 +38,78 @@
     </string-array>
 
     <string-array name="all">
-<!--        <item>amber_circle</item>-->
-<!--        <item>amber_rectangle</item>-->
-<!--        <item>amber_square</item>-->
-<!--        <item>blue_circle</item>-->
-<!--        <item>blue_rectangle</item>-->
-<!--        <item>blue_square</item>-->
-<!--        <item>purple_circle</item>-->
-<!--        <item>purple_rectangle</item>-->
-<!--        <item>purple_square</item>-->
-<!--        <item>red_circle</item>-->
-<!--        <item>red_rectangle</item>-->
-<!--        <item>red_square</item>-->
+
+        <item>acode</item>
+        <item>afwall_d</item>
+        <item>afwall</item>
+        <item>aosp_dialer</item>
+        <item>a_clicker</item>
+        <item>bc_en</item>
+        <item>bc_jp</item>
+        <item>bc_kr</item>
+        <item>bc_tw</item>
+        <item>chrome</item>
+        <item>classroom</item>
+        <item>c_pd</item>
+        <item>discord</item>
+        <item>dolby_dax</item>
+        <item>dropbox</item>
+        <item>d_droid_p</item>
+        <item>eset</item>
+        <item>e_students</item>
+        <item>facebook</item>
+        <item>firefox</item>
+        <item>f_msg</item>
+        <item>f_sync</item>
+        <item>github</item>
+        <item>gmail</item>
+        <item>gxb2</item>
+        <item>g_calen</item>
+        <item>g_cal</item>
+        <item>g_cam_mgc</item>
+        <item>g_drive</item>
+        <item>g_games</item>
+        <item>g_lens</item>
+        <item>g_photo</item>
+        <item>g_play</item>
+        <item>g_rec</item>
+        <item>g_search</item>
+        <item>g_tl</item>
+        <item>idmp</item>
+        <item>ig</item>
+        <item>line</item>
+        <item>magisk</item>
+        <item>matlog</item>
+        <item>mcpe</item>
+        <item>mega</item>
+        <item>miband</item>
+        <item>mix</item>
+        <item>mix_s</item>
+        <item>m_math</item>
+        <item>n360</item>
+        <item>nekogram</item>
+        <item>octopus</item>
+        <item>onedrive</item>
+        <item>oooo</item>
+        <item>o_365</item>
+        <item>paypal</item>
+        <item>plus</item>
+        <item>puffin</item>
+        <item>p_office</item>
+        <item>qksms</item>
+        <item>rar</item>
+        <item>reddit</item>
+        <item>settings</item>
+        <item>surfshark</item>
+        <item>s_backup</item>
+        <item>s_iso</item>
+        <item>termux</item>
+        <item>twitch</item>
+        <item>twitter</item>
+        <item>whatsapp</item>
+        <item>xda</item>
+        <item>youtube</item>
+        <item>yt_music</item>
     </string-array>
 
-    <string-array name="adaptive">
-<!--        <item>adaptive_one</item>-->
-<!--        <item>adaptive_two</item>-->
-<!--        <item>adaptive_three</item>-->
-    </string-array>
-
-    <string-array name="amber">
-<!--        <item>amber_circle</item>-->
-<!--        <item>amber_rectangle</item>-->
-<!--        <item>amber_square</item>-->
-    </string-array>
-
-    <string-array name="blue">
-<!--        <item>blue_circle</item>-->
-<!--        <item>blue_rectangle</item>-->
-<!--        <item>blue_square</item>-->
-    </string-array>
-
-    <string-array name="purple">
-<!--        <item>purple_circle</item>-->
-<!--        <item>purple_rectangle</item>-->
-<!--        <item>purple_square</item>-->
-    </string-array>
 </resources>

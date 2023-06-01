@@ -1,48 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
+    <!-- Settings App -->
     <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="people" />
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="settings" />
 
+    <!-- Chrome -->
     <item
-        component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="people" />
+        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+        drawable="chrome" />
 
+    <!-- Gmail -->
     <item
-        component="ComponentInfo{com.android.contacts/}"
-        drawable="people" />
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
+        drawable="gmail" />
 
+    <!-- Google Classroom -->
     <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="" />
+        component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}"
+        drawable="classroom" />
 
+    <!-- YouTube -->
     <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="something" />
+        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
+        drawable="youtube" />
 
+    <!-- WhatsApp -->
     <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="icon" />
+        component="ComponentInfo{com.whatsapp/com.whatsapp.0}"
+        drawable="whatsapp" />
 
+    <!-- Battle Cat TW -->
     <item
-        component="ComponentInfo{/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="phone" />
+        component="ComponentInfo{jp.co.ponos.battlecatstw/jp.co.ponos.battlecats.MyActivity}"
+        drawable="bc_tw" />
 
+    <!-- Plus Messenger -->
     <item
-        component="ComponentInfo{com.android.contacts/}"
-        drawable="contacts" />
+        component="ComponentInfo{org.telegram.plus/org.telegram.messenger.DefaultIcon}"
+        drawable="plus" />
 
+    <!-- Google Calculator -->
     <item
-        component="ComponentInfo{}"
-        drawable="cell" />
+        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
+        drawable="g_cal" />
 
+    <!-- Discord -->
     <item
-        component="ComponentInfo{/}"
-        drawable="an_icon" />
+        component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}"
+        drawable="discord" />
 
+    <!-- Girl X Battle 2 -->
     <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="" />
+        component="ComponentInfo{com.carolgames.moemoegirls/com.carolgames.moemoegirls.MainActivity}"
+        drawable="gxb2" />
+
+    <!-- Google Drive -->
+    <item
+        component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="g_drive" />
+
+    <!-- MIX -->
+    <item
+        component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}"
+        drawable="mix" />
+
+    <!-- MIX Silver -->
+    <item
+        component="ComponentInfo{com.mixplorer.silver/com.mixplorer.activities.BrowseActivity}"
+        drawable="mix_s" />
+
+    <!-- FireFox -->
+    <item
+        component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
+        drawable="firefox" />
+
+    <!-- Instagram -->
+    <item
+        component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
+        drawable="ig" />
+
+    <!-- Google Play Store -->
+    <item
+        component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
+        drawable="g_play" />
+
+    <!-- Google Translate -->
+    <item
+        component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
+        drawable="g_tl" />
+
+    <!-- Battle Cat JP -->
+    <item
+        component="ComponentInfo{jp.co.ponos.battlecats/jp.co.ponos.battlecats.MyActivity}"
+        drawable="bc_jp" />
+
+    <!-- YouTube Music -->
+    <item
+        component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}"
+        drawable="yt_music" />
+
+    <!-- 1.1.1.1 -->
+    <item
+        component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.SplashActivity}"
+        drawable="oooo" />
+
+    <!-- IDMP -->
+    <item
+        component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}"
+        drawable="idmp" />
+
+    <!-- Dolby Dax -->
+    <item
+        component="ComponentInfo{com.dolby.daxappui/com.dolby.daxappui.MainActivity}"
+        drawable="dolby_dax" />
+
+    <!-- Facebook Messenger -->
+    <item
+        component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}"
+        drawable="f_msg" />
+
+    <!-- Google Recorder -->
+    <item
+        component="ComponentInfo{com.google.android.apps.recorder/com.google.android.apps.recorder.ui.recordings.MainActivity}"
+        drawable="g_rec" />
+
+    <!-- Battle Cat EN -->
+    <item
+        component="ComponentInfo{jp.co.ponos.battlecatsen/jp.co.ponos.battlecats.MyActivity}"
+        drawable="bc_en" />
+
+    <!-- Battle Cat KR -->
+    <item
+        component="ComponentInfo{jp.co.ponos.battlecatskr/jp.co.ponos.battlecats.MyActivity}"
+        drawable="bc_kr" />
+
+    <!-- Line -->
+    <item
+        component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}"
+        drawable="line" />
+
+    <!-- MEGA -->
+    <item
+        component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.main.ManagerActivity}"
+        drawable="mega" />
+
+    <!-- Magisk -->
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity}"
+        drawable="magisk" />
+
+    <!-- Facebook -->
+    <item
+        component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
+        drawable="facebook" />
+
+    <!-- GitHub -->
+    <item
+        component="ComponentInfo{com.github.android/com.github.android.activities.MainActivity}"
+        drawable="github" />
+
+    <!-- Google Search -->
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
+        drawable="g_search" />
+
+    <!-- OneDrive -->
+    <item
+        component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}"
+        drawable="onedrive" />
+
+    <!-- Google Photo -->
+    <item
+        component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
+        drawable="g_photo" />
+
+    <!-- Google Play Games -->
+    <item
+        component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
+        drawable="g_games" />
+
+    <!-- RAR -->
+    <item
+        component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}"
+        drawable="rar" />
+
+    <!-- Notify for Mi Band -->
+    <item
+        component="ComponentInfo{com.mc.miband1/com.mc.miband1.ui.MainActivity}"
+        drawable="miband" />
+
+    <!-- Matlog -->
+    <item
+        component="ComponentInfo{com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity}"
+        drawable="matlog" />
+
+    <!-- SurfShark -->
+    <item
+        component="ComponentInfo{com.surfshark.vpnclient.android/com.surfshark.vpnclient.android.StartActivity}"
+        drawable="surfshark" />
+
+    <!-- Twitch -->
+    <item
+        component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}"
+        drawable="twitch" />
+
+    <!-- Twitter -->
+    <item
+        component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
+        drawable="twitter" />
+
+    <!-- GCam MGC -->
+    <item
+        component="ComponentInfo{com.android.MGC/com.android.camera.CameraLauncher}"
+        drawable="g_cam_mgc" />
+
+    <!-- Microsoft Math -->
+    <item
+        component="ComponentInfo{com.microsoft.math/com.microsoft.bing.reactnative.lib.MainActivity}"
+        drawable="m_math" />
+
+    <!-- Swift Backup -->
+    <item
+        component="ComponentInfo{org.swiftapps.swiftbackup/org.swiftapps.swiftbackup.intro.IntroActivity}"
+        drawable="s_backup" />
+
+    <!-- Google Calendar -->
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="g_calen" />
+
+    <!-- DriveDroid(Paid) -->
+    <item
+        component="ComponentInfo{com.softwarebakery.drivedroid.paid/com.softwarebakery.drivedroid.MainActivity}"
+        drawable="d_droid_p" />
+
+    <!-- DropBox -->
+    <item
+        component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}"
+        drawable="dropbox" />
+
+    <!-- FolderSync -->
+    <item
+        component="ComponentInfo{dk.tacit.android.foldersync.full/dk.tacit.android.foldersync.activity.MainActivity}"
+        drawable="f_sync" />
+
+    <!-- Minecraft -->
+    <item
+        component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}"
+        drawable="mcpe" />
+
+    <!-- Polaris Office -->
+    <item
+        component="ComponentInfo{com.infraware.office.link/com.infraware.service.ActLauncher}"
+        drawable="p_office" />
+
+    <!-- PowerDirect -->
+    <item
+        component="ComponentInfo{com.cyberlink.powerdirector.DRA140225_01/com.cyberlink.powerdirector.splash.SplashActivity}"
+        drawable="c_pd" />
+
+    <!-- Reddit -->
+    <item
+        component="ComponentInfo{com.reddit.frontpage/launcher.default}"
+        drawable="reddit" />
+
+    <!-- QKSMS -->
+    <item
+        component="ComponentInfo{com.moez.QKSMS/com.moez.QKSMS.feature.main.MainActivity}"
+        drawable="qksms" />
+
+    <!-- Puffin -->
+    <item
+        component="ComponentInfo{com.cloudmosa.puffin/com.cloudmosa.app.LemonActivity}"
+        drawable="puffin" />
+
+    <!-- XDA Labs -->
+    <item
+        component="ComponentInfo{com.xda.labs.play/host.exp.exponent.MainActivity}"
+        drawable="xda" />
+
+    <!-- Auto Clicker -->
+    <item
+        component="ComponentInfo{com.rise.automatic.autoclicker.clicker/com.rise.automatic.autoclicker.clicker.ui.activities.splash.SplashActivity}"
+        drawable="a_clicker" />
+
+    <!-- Octopus -->
+    <item
+        component="ComponentInfo{com.octopuscards.nfc_reader/com.octopuscards.nfc_reader.ui.main.activities.MainActivityV5}"
+        drawable="octopus" />
+
+    <!-- PayPal -->
+    <item
+        component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}"
+        drawable="paypal" />
+
+    <!-- AOSP Dialer -->
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}"
+        drawable="aosp_dialer" />
+
+    <!-- Google Lens -->
+    <item
+        component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}"
+        drawable="g_lens" />
+
+    <!-- Nekogram -->
+    <item
+        component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.messenger.DefaultIcon}"
+        drawable="nekogram" />
+
+    <!-- Office 365 -->
+    <item
+        component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}"
+        drawable="o_365" />
+
+    <!-- Eclass Students -->
+    <item
+        component="ComponentInfo{com.broadlearning.eclassstudent/com.broadlearning.eclassstudent.login.LoadingActivity}"
+        drawable="e_students" />
+
+    <!-- Termux -->
+    <item
+        component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}"
+        drawable="termux" />
+
+    <!-- Acode -->
+    <item
+        component="ComponentInfo{com.foxdebug.acode/com.foxdebug.acode.MainActivity}"
+        drawable="acode" />
+
+    <!-- Storage Isolation -->
+    <item
+        component="ComponentInfo{moe.shizuku.redirectstorage/moe.shizuku.redirectstorage.MainActivity}"
+        drawable="s_iso" />
+
+    <!-- ESET -->
+    <item
+        component="ComponentInfo{com.eset.ems2.gp/com.eset.ems.gui.MainActivityAlias}"
+        drawable="eset" />
+
+    <!-- AFwall donate -->
+    <item
+        component="ComponentInfo{dev.ukanth.ufirewall.donatekey/dev.ukanth.ufirewall.donatekey.MainActivity}"
+        drawable="afwall_d" />
+
+    <!-- AFwall -->
+    <item
+        component="ComponentInfo{dev.ukanth.ufirewall/dev.ukanth.ufirewall.MainActivity}"
+        drawable="afwall" />
+
+    <!-- Norton360 -->
+    <item
+        component="ComponentInfo{com.symantec.mobilesecurity/com.norton.n360.SplashActivity}"
+        drawable="n360" />
+
 
 </resources>
